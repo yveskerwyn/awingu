@@ -1,7 +1,5 @@
 # SSH Access
 
-https://stackoverflow.com/questions/3475069/use-ppk-file-in-mac-terminal-to-connect-to-remote-connection-over-ssh
-
 Convert the key from ppk to pem format:
 ```bash
 brew install putty
