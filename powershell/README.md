@@ -8,3 +8,9 @@
 
 - Create a new Awingu application:
   [apps_create.ps1](apps_create.ps1)
+
+- Listing all user sessions:
+  [user-sessions_list.ps1](user-sessions_list.ps1)
+
+- Get application usage reports using the indexer (data from Elasticsearch):
+  [indexer.ps1](indexer.ps1)
