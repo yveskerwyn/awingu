@@ -1,4 +1,4 @@
-# Using PowerShell to create a new Awingu application
+# Using PowerShell against the Awingu API
 
 - List all Awingu application icons:
   [app-icons__list.ps1](app-icons__list.ps1)
@@ -12,5 +12,5 @@
 - Listing all user sessions:
   [user-sessions_list.ps1](user-sessions_list.ps1)
 
-- Get application usage reports using the indexer (data from Elasticsearch):
+- Create an application usage report using the indexer (data from Elasticsearch):
   [indexer.ps1](indexer.ps1)
